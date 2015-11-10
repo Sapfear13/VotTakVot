@@ -9,6 +9,7 @@
 
 
 // Добавил комментарий в AppDelegate
+// Так же попробовал использовать Source Controll
 
 #import <Cocoa/Cocoa.h>
 
